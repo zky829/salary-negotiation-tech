@@ -21,6 +21,7 @@ Salary Negotiation: Make More Money, Be More Valued | http://www.kalzumeus.com/2
 The Software Engineer’s Guide to Negotiating a Raise | http://www.mgadams.com/2015/06/30/the-software-engineers-guide-to-negotiating-a-raise/ 
 We only hire the trendiest | http://danluu.com/programmer-moneyball
 Why Other Tech Talent Gets Paid More Than You | https://medium.com/swlh/why-other-tech-talent-gets-paid-more-than-you-eac74808f3c8 
+Negotiation Help from Former Recruiters (Paid) | https://www.levels.fyi/services/ 
 
 ## Counter-offers
 
